@@ -8,6 +8,8 @@
 #  - For each item use the downcase method to change all letters to lower case
 #  - Print each invidivdual item.
 
+# Final Solution
+
 array = ['aPPle','baNana', 'STRAWBERRY', 'orange', 'grapeFRUIT']
 
 array.each do |item|
